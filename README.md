@@ -37,11 +37,15 @@ The board positions are numbered from 1 to 9:
 markdown
 Copy
 Edit
+
+
 1 | 2 | 3
 ---------
 4 | 5 | 6
 ---------
 7 | 8 | 9
+
+
 Players take turns entering the number of the cell they want to mark (X or O).
 
 The game ends when:
@@ -81,6 +85,7 @@ Player X goes first, followed by Player O.
 Enter a number (1-9) corresponding to the position on the board.
 
 === TIC-TAC-TOE ===
+
 1 | 2 | 3
 ---------
 4 | 5 | 6
